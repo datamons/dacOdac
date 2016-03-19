@@ -20,13 +20,16 @@ ___
 
 ___
 
-### Stages:
-[Brémy](https://imgflip.com/readImage?iid=9310200)
-[Paul](https://github.com/ottoMatt/dacOdac/blob/master/alpaca/alpaca.md)
 
+### Stages:
+* [Brémy](https://imgflip.com/readImage?iid=9310200)
+* [Paul](https://github.com/ottoMatt/dacOdac/blob/master/alpaca/alpaca.md)
 
 ___
 
 *Metalinks*
 * [DataScienceDelivered](https://github.com/ianozsvald/data_science_delivered/blob/master/README.md) - Inspiration
 * [AwesomePython](https://github.com/vinta/awesome-python) -
+
+
+*Signé, Brémiac, TrollMaster and co <insert here your name>*
