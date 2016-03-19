@@ -12,3 +12,8 @@ Le repository initial pourra être changé, ainsi que le nom, c'est juste histoi
 
 Pleins de kikoos lols à tous !11 one 1!! eleven
 
+---
+### Stages:
+[Brémy](https://imgflip.com/readImage?iid=9310200)
+[Paul](https://github.com/ottoMatt/dacOdac/blob/master/alpaca/alpaca.md)
+
