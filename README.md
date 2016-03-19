@@ -13,11 +13,9 @@ ___
 
                                                 Yamamoto Tsunetomo
 ___
-
-![Alt text][id]
-[id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-
+<center>
+<img src="http://octodex.github.com/images/dojocat.jpg" width="400">
+</center>
 ___
 
 
