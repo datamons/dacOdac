@@ -15,8 +15,8 @@
   * LSTM
   * Deep Q-Learning
 * Rechercher sur les extensions possibles en lisant les papier à la mode (genre AlphaGo, même si t'a jamais 300 GPU dispo pour un mois mais c'est drôle à lire)
-* **Manger des ramens**, souvent
-* Aller dans des onsens
+* **Manger des [ramens](http://i.imgur.com/5Qm4sb3.jpg)**, souvent
+* Aller dans des [onsens](http://3.bp.blogspot.com/-YiKjHiIcfqY/U5gHwposOwI/AAAAAAAABGc/tlkPKieok7E/s1600/onsen.jpg)
 * Partir à Tokyo pour des meetups (entre autres, ahem)
 
 
@@ -42,5 +42,5 @@ Screen:
 
 
 1) Firefox + [uBlock](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) + [vimperator](https://addons.mozilla.org/en-US/firefox/addon/vimperator/)  
-2) Jupyter via ssh  
-3) tmux + powerline, vim (pas encore [neovim](https://github.com/neovim/neovim)...), [mpd](https://wiki.archlinux.org/index.php/Music_Player_Daemon) + [ncmpcpp](http://rybczak.net/ncmpcpp/)
+2) [Jupyter](http://jupyter.org/) via ssh  
+3) [iTerm3](https://www.iterm2.com/version3.html) + [tmux](https://tmux.github.io/) + [powerline](https://github.com/powerline/powerline), vim (pas encore [neovim](https://github.com/neovim/neovim)...), [mpd](https://wiki.archlinux.org/index.php/Music_Player_Daemon) + [ncmpcpp](http://rybczak.net/ncmpcpp/)
