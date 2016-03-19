@@ -1,19 +1,32 @@
 # dacOdac
-or dac2dac...
 
-Hi !
+*Bootstrappin'*  :
+|||||||||| 5%
 
 ___
 
-Ceci est l'inauguration d'une tentative de collaboration entre étudiants du master DAC (d'où le nom...)
+Sharing links, tools, notebooks and scripts for the good people of DacMaster
+___
 
-Le repository initial pourra être changé, ainsi que le nom, c'est juste histoire de bootstrapper, il conviendra de faire quelques itérations...
+    Throughout your life advance daily, becoming more skillful than yesterday, more skillful than today.
+    This is never-ending.
+
+                                                Yamamoto Tsunetomo
+___
+
+![Alt text][id]
+[id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 
-Pleins de kikoos lols à tous !11 one 1!! eleven
+___
 
----
 ### Stages:
 [Brémy](https://imgflip.com/readImage?iid=9310200)
 [Paul](https://github.com/ottoMatt/dacOdac/blob/master/alpaca/alpaca.md)
 
+
+___
+
+*Metalinks*
+* [DataScienceDelivered](https://github.com/ianozsvald/data_science_delivered/blob/master/README.md) - Inspiration
+* [AwesomePython](https://github.com/vinta/awesome-python) -
