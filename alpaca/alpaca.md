@@ -39,3 +39,8 @@ Screen:
 <img src="https://github.com/ottoMatt/dacOdac/raw/master/alpaca/img/firefox.png" height="250px">
 <img src="https://github.com/ottoMatt/dacOdac/raw/master/alpaca/img/jupyter.png" height="250px">
 <img src="https://github.com/ottoMatt/dacOdac/raw/master/alpaca/img/terminal.png" height="500px">
+
+
+1) Firefox + [uBlock](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) + [vimperator](https://addons.mozilla.org/en-US/firefox/addon/vimperator/)  
+2) Jupyter via ssh  
+3) tmux + powerline, vim (pas encore [neovim](https://github.com/neovim/neovim)...), [mpd](https://wiki.archlinux.org/index.php/Music_Player_Daemon) + [ncmpcpp](http://rybczak.net/ncmpcpp/)
