@@ -1,7 +1,7 @@
 # dacOdac
 
-*Bootstrappin'*  :
-|||||||||| 5%
+*Bootstrappin'*  :  
+||||| 5%
 
 ___
 
@@ -14,8 +14,8 @@ ___
                                                 Yamamoto Tsunetomo
 ___
 <center>
-<img src="http://octodex.github.com/images/dojocat.jpg" width="400">
-</center>
+<img src="http://octodex.github.com/images/dojocat.jpg" width="400" >
+
 ___
 
 
@@ -27,7 +27,7 @@ ___
 
 *Metalinks*
 * [DataScienceDelivered](https://github.com/ianozsvald/data_science_delivered/blob/master/README.md) - Inspiration
-* [AwesomePython](https://github.com/vinta/awesome-python) -
+* [AwesomePython](https://github.com/vinta/awesome-python) - Awesome
 
 
 *Signé, Brémiac, TrollMaster and co <insert here your name>*
