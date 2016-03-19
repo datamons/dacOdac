@@ -2,7 +2,7 @@
 ## [![alpaca](http://www.alpaca.ai/img/logo_alpaca.svg)](http://www.alpaca.ai/)
 ###### Quelques mots sur le stage:
 
-* **Nom**: Alpaca
+* **Nom**: Alpaca
 * **Location**: Kobe, Japon
 * **Type**: Start-up
 * **Domaines**: Finance, Machine Learning
@@ -36,6 +36,6 @@
 
 Screen:
 
-<img src="" height="200px">
-<img src="" height="200px">
-<img src="" height="200px">
+<img src="https://github.com/ottoMatt/dacOdac/raw/master/alpaca/img/firefox.png" height="250px">
+<img src="https://github.com/ottoMatt/dacOdac/raw/master/alpaca/img/jupyter.png" height="250px">
+<img src="https://github.com/ottoMatt/dacOdac/raw/master/alpaca/img/terminal.png" height="500px">
