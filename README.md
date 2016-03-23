@@ -21,14 +21,14 @@ ___
 
 
 ### Stages:
-* [Brémy](https://imgflip.com/readImage?iid=9310200)
+* [Brémy](frauddetection/frauddetection.md)
 * [Paul](https://github.com/ottoMatt/dacOdac/blob/master/alpaca/alpaca.md)
 * [Cadene](https://github.com/ottoMatt/dacOdac/blob/master/deepfood/deepfood.md)
 
 ___
 
 *Metalinks*
-* [DataScienceDelivered](https://github.com/ianozsvald/data_science_delivered/blob/master/README.md) - Inspiration(https://github.com/datamons/dacOdac/blob/master/frauddetection/frauddetection.md)
+* [DataScienceDelivered](https://github.com/ianozsvald/data_science_delivered/blob/master/README.md) - Inspiration
 * [AwesomePython](https://github.com/vinta/awesome-python) - Awesome
 
 
