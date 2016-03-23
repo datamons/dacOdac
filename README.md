@@ -23,6 +23,7 @@ ___
 ### Stages:
 * [Brémy](https://imgflip.com/readImage?iid=9310200)
 * [Paul](https://github.com/ottoMatt/dacOdac/blob/master/alpaca/alpaca.md)
+* [Cadene](https://github.com/ottoMatt/dacOdac/blob/master/deepfood/deepfood.md)
 
 ___
 
@@ -31,4 +32,4 @@ ___
 * [AwesomePython](https://github.com/vinta/awesome-python) - Awesome
 
 
-*Signé, Brémiac, TrollMaster and co <insert here your name>*
+*Signé, Brémiac, TrollMaster, Rami and co <insert here your name>*
