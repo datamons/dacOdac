@@ -5,7 +5,7 @@
 
 ___
 
-Sharing links, tools, notebooks and scripts for the good people of DacMaster
+Sharing links, tools, notebooks and scripts between the good people of the DAC Msc.
 ___
 
     Throughout your life advance daily, becoming more skillful than yesterday, more skillful than today.
