@@ -28,7 +28,7 @@ ___
 ___
 
 *Metalinks*
-* [DataScienceDelivered](https://github.com/ianozsvald/data_science_delivered/blob/master/README.md) - Inspiration
+* [DataScienceDelivered](https://github.com/ianozsvald/data_science_delivered/blob/master/README.md) - Inspiration(https://github.com/datamons/dacOdac/blob/master/frauddetection/frauddetection.md)
 * [AwesomePython](https://github.com/vinta/awesome-python) - Awesome
 
 

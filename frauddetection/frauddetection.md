@@ -1,5 +1,5 @@
 # Stage Master DAC, printemps 2016
-## [![alpaca](http://assistly-production.s3.amazonaws.com/payplug/portal_attachments/243065/Logo_Normal_original.png?AWSAccessKeyId=AKIAJNSFWOZ6ZS23BMKQ&Expires=1458470060&Signature=SIWpnMx7844QRR2O1XPTpZ6Enuc%3D&response-content-disposition=filename%3D%22Logo_Normal.png%22&response-content-type=image%2Fpng)](http://www.alpaca.ai/)
+## [![lip6](./img/Logo_small.png)]()
 ###### Quelques mots sur le stage:
 
 * **Nom**: Plug
