@@ -30,9 +30,18 @@
 * papier + crayon
 
 
+
 ___
 
-## Cool Tools
+######  notebooks
+- [DataCapsule](./notebooks/tutorialDataCapsule.ipynb) : to catch all datamons
+    - **usage** :  *not recommended*
+    - **status** : *beta*
+    - **goal** : provide *interface* for ETL in notebooks and force good practice...
+    - **code rating** : [30 WTF/s](http://i.imgur.com/J1svNp7.jpg)
+___
+
+###### Cool Tools
 - [CSV_Kit](https://csvkit.readthedocs.org/en/540/) - Python library to handle csv
 - CSV-Stats - (how are those better thant pandas ? good question...)
 - [Tabula](http://tabula.technology/) - Extract tables from pdfs
@@ -44,7 +53,7 @@ ___
 - [SemanticScholar](https://www.semanticscholar.org) - Computer science papers, much wow
 
 
-## Links
+###### Links
  *(Papers, blogs, remarks etc...)*
 - [RedditRankingAlgo](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.6t0r61ah9) - a priori sur les notes, pas fréquentiste.
 - RandomProjections
