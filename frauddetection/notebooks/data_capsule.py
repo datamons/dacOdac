@@ -1,18 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-    DATA Capsules
-        reads pickles
-        adds metadata&logs to the dataframes pickled so we always have a summary
-        of all operations (well defined goal)
 
-        Will be the interface between the modules in the ETL process
-
-        #TODO add group info + supp field to store additional misc. informations
-        # might store many infos, such as comments on columns :
-            ex : dc.capsule[col].log()
-             or better dc.log_col['PPcustomerId']('rgihirg') : call a function stored in a dict by default ?
-"""
 import pickle
 import pandas as pd
 from collections import defaultdict
@@ -41,14 +29,6 @@ class DataCapsule(object) :
             'groups' : {'group1' : [1,2,3], 'group2' : [2,3,4] }
             'misc' : 'wdw'
             }
-
-        ce qui est stocké comme attribut de l'objet est ce qui est courant à la session et
-        qui contient des informations nécessaires pour le foncitonnement ds methodes
-
-        ce qui est dans la capsule est
-            -de l'information non necessaire pour la capsule mais utile
-            pour d'autres taches
-            -ou des informations passées anterieurement
 
             # TODO :
                 - more precise time function, parse it and add as a column
