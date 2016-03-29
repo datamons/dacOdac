@@ -48,4 +48,4 @@ Screen:
 ###### Links
 
 - [Various APIs](https://github.com/toddmotto/public-apis)
-- [Simple python](optimizations https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Meets_Julia_Micro_Performance?lang=en) or [learn Julia](http://docs.julialang.org/en/release-0.4/manual/getting-started/) if you're crazy
+- Simple [python optimizations](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Meets_Julia_Micro_Performance?lang=en) or [learn Julia](http://docs.julialang.org/en/release-0.4/manual/getting-started/) if you're crazy
