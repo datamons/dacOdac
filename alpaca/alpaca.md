@@ -44,3 +44,8 @@ Screen:
 1) Firefox + [uBlock](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) + [vimperator](https://addons.mozilla.org/en-US/firefox/addon/vimperator/)  
 2) [Jupyter](http://jupyter.org/) via ssh  
 3) [iTerm3](https://www.iterm2.com/version3.html) + [tmux](https://tmux.github.io/) + [powerline](https://github.com/powerline/powerline), vim (pas encore [neovim](https://github.com/neovim/neovim)...), [mpd](https://wiki.archlinux.org/index.php/Music_Player_Daemon) + [ncmpcpp](http://rybczak.net/ncmpcpp/)
+
+###### Links
+
+- [Various APIs](https://github.com/toddmotto/public-apis)
+- [Simple python](optimizations https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Meets_Julia_Micro_Performance?lang=en) or [learn Julia](http://docs.julialang.org/en/release-0.4/manual/getting-started/) if you're crazy
